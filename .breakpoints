@@ -1,0 +1,18 @@
+{
+  "files": {
+    "src/assignment.js": [
+      {
+        "id": "6afe00ce-fe18-4f2b-994e-43301f091a5b",
+        "line": 25,
+        "version": 10,
+        "index": 587
+      },
+      {
+        "id": "275cdda2-a72d-48e2-87e4-047d4b14fe70",
+        "line": 41,
+        "version": 22,
+        "index": 1032
+      }
+    ]
+  }
+}
